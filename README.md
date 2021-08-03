@@ -1,6 +1,6 @@
 # Loan-Prediction-using-Logistic-Regression
 
-The main aim of the algorithm was to identify whether or not an individual's loan will get approved based on a given dataset.
+The main aim of the algorithm was to identify whether or not an individual's loan will get approved based on a given data.
 
 For the algorithm, the python libraries used were :
   
